@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kunying Li (李坤应)
+title: none
 
 # Is this the primary user of the site?
 superuser: true
